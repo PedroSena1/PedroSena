@@ -1,4 +1,5 @@
 Hi, Guys! How u doing, guys?
+Im student.
 So, i created this file, to file up my codes. 
 I used vs code program , and i used python language. This codes, are codes of my beginin in the Dev World.
 In this file, you are find my firts codes, I had a litlle difficulty in the begin because i dont kwed nothing about logic and nothing about to be dev. But I studied everyday 
